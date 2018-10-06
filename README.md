@@ -7,7 +7,7 @@ Take it as needed! Created with the intention of contributing to those who build
 
 Sources included:  
 
-
+*  [data.world](https://toolbox.google.com/datasetsearch/search?query=Dirty%20Naughty%20Obscene%20and%20Otherwise%20Bad%20Words%20in%20Arabic&docid=G1hm%2BP5gyL2Npx9WAAAAAA%3D%3D)  
 
 
 
